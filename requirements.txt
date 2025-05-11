@@ -1,0 +1,6 @@
+pandas
+folium
+numpy
+seaborn 
+dash
+keplergl
